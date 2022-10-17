@@ -50,9 +50,10 @@ Register to AWS for Amazon LEX and Lambda.
 ---
 
 ## Usage
-
+We start a dialogue with the robo advisor. The dialogue is as follows:
 ![Alt text](https://github.com/jpqt/Challenge-15/blob/main/Images/Test%20Bot.png "Testing the bot")
 
+Enhance the Robo advisor with an Amazon Lambda Function
 
 
 

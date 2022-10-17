@@ -51,6 +51,7 @@ Register to AWS for Amazon LEX and Lambda.
 
 ## Usage
 
+![Alt text](https://github.com/jpqt/Challenge-15/blob/main/Images/Test%20Bot.png "Testing the bot")
 
 
 
